@@ -1,4 +1,11 @@
-# 🚀 Módulo 8: Testing Avanzado y E2E
+# 🔴 Senior Level 2: Testing Avanzado y E2E
+
+## 🧭 Navegación del Curso
+
+**← Anterior**: [Senior Level 1: Arquitectura](../senior_1/README.md)  
+**Siguiente →**: [Senior Level 3: Performance](../senior_3/README.md)
+
+---
 
 ## 📚 Descripción del Módulo
 

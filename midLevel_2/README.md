@@ -1,3 +1,12 @@
+# 🟡 Mid Level 2: Hooks Avanzados y Performance
+
+## 🧭 Navegación del Curso
+
+**← Anterior**: [Mid Level 1: Estado Global](../midLevel_1/README.md)  
+**Siguiente →**: [Mid Level 3: Testing](../midLevel_3/README.md)
+
+---
+
 # 🚀 Módulo 5: Hooks Avanzados y Performance
 
 ## 📚 Descripción del Módulo

@@ -1,3 +1,12 @@
+# 🔴 Senior Level 1: Arquitectura y Patrones Avanzados
+
+## 🧭 Navegación del Curso
+
+**← Anterior**: [Mid Level 3: Testing](../midLevel_3/README.md)  
+**Siguiente →**: [Senior Level 2: Testing Avanzado](../senior_2/README.md)
+
+---
+
 # 🚀 Módulo 7: Arquitectura y Patrones Avanzados
 
 ## 📚 Descripción del Módulo

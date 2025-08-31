@@ -1,3 +1,12 @@
+# 🟡 Mid Level 1: Estado Global y Context API
+
+## 🧭 Navegación del Curso
+
+**← Anterior**: [Junior Level 3: Routing y Estado](../junior_3/README.md)  
+**Siguiente →**: [Mid Level 2: Hooks Avanzados](../midLevel_2/README.md)
+
+---
+
 # 🚀 Módulo 4: Estado Global y Context API
 
 ## 📚 Descripción del Módulo

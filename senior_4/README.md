@@ -1,5 +1,12 @@
 # 🚀 Módulo 10: DevOps y Deployment
 
+## 🧭 Navegación del Curso
+
+**← Anterior**: [Senior Level 3: Performance](../senior_3/README.md)  
+**Siguiente →**: [Final del Curso](../README.md)
+
+---
+
 ## 📚 Descripción del Módulo
 
 En este módulo aprenderás a implementar DevOps completo para aplicaciones React, incluyendo CI/CD, Docker, cloud deployment, monitoreo, y estrategias para llevar aplicaciones a producción de manera segura y escalable.

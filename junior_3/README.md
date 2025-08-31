@@ -1,3 +1,12 @@
+# 🟢 Junior Level 3: Routing y Estado Local
+
+## 🧭 Navegación del Curso
+
+**← Anterior**: [Junior Level 2: Componentes y Hooks](../junior_2/README.md)  
+**Siguiente →**: [Mid Level 1: Estado Global](../midLevel_1/README.md)
+
+---
+
 # 🚀 Módulo 3: Routing y Estado Local
 
 ## 📚 Descripción del Módulo

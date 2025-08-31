@@ -1,3 +1,12 @@
+# 🟢 Junior Level 2: Componentes y Hooks Básicos
+
+## 🧭 Navegación del Curso
+
+**← Anterior**: [Junior Level 1: Fundamentos de React](../junior_1/README.md)  
+**Siguiente →**: [Junior Level 3: Routing y Estado](../junior_3/README.md)
+
+---
+
 # 🚀 Módulo 2: Componentes y Hooks Básicos
 
 ## 📚 Descripción del Módulo

@@ -24,12 +24,46 @@ Este curso te llevará desde los fundamentos más básicos de React hasta conver
 - **Performance y Optimización**: Bundle analysis, Core Web Vitals
 - **DevOps y Deployment**: CI/CD, Docker, Kubernetes, monitoreo
 
+## 📁 Estructura Completa del Curso
+
+### 🟢 **NIVEL JUNIOR** - Fundamentos de React (4-6 semanas)
+
+- **[Junior Level 1: Fundamentos de React](junior_1/README.md)** - Fundamentos de React y JSX
+- **[Junior Level 2: Componentes y Hooks](junior_2/README.md)** - Componentes y Hooks básicos
+- **[Junior Level 3: Routing y Estado](junior_3/README.md)** - Routing y estado local
+
+### 🟡 **NIVEL MID-LEVEL** - React Avanzado (6-8 semanas)
+
+- **[Mid Level 1: Estado Global](midLevel_1/README.md)** - Estado global y Context API
+- **[Mid Level 2: Hooks Avanzados](midLevel_2/README.md)** - Hooks avanzados y performance
+- **[Mid Level 3: Testing](midLevel_3/README.md)** - Testing y debugging
+
+### 🔴 **NIVEL SENIOR** - Maestría React (8-10 semanas)
+
+- **[Senior Level 1: Arquitectura](senior_1/README.md)** - Arquitectura y patrones avanzados
+- **[Senior Level 2: Testing Avanzado](senior_2/README.md)** - Testing avanzado y E2E
+- **[Senior Level 3: Performance](senior_3/README.md)** - Performance y optimización
+- **[Senior Level 4: DevOps](senior_4/README.md)** - DevOps y deployment
+
+## 🗂️ Navegación Rápida
+
+### **Índices y Recursos**
+- **[📚 Índice Completo](INDICE_COMPLETO.md)** - Vista general de todo el curso
+- **[🧭 Navegación Rápida](NAVEGACION_RAPIDA.md)** - Acceso directo a todos los niveles
+
+### **Progresión Recomendada**
+```
+Junior 1 → Junior 2 → Junior 3 → Mid 1 → Mid 2 → Mid 3 → 
+Senior 1 → Senior 2 → Senior 3 → Senior 4
+```
+
 ## 📁 Estructura del Curso
 
 ```
 curso_react/
 ├── README.md                    # Este archivo - Descripción general
 ├── INDICE_COMPLETO.md          # Índice detallado de todos los módulos
+├── NAVEGACION_RAPIDA.md        # Navegación rápida entre niveles
 ├── junior_1/                   # Fundamentos de React y JSX
 ├── junior_2/                   # Componentes y Hooks básicos
 ├── junior_3/                   # Routing y estado local
@@ -85,7 +119,7 @@ curso_react/
 
 ## 🚀 Comenzando
 
-¡Estás listo para convertirte en un desarrollador React senior! Comienza con el [Módulo 1: Fundamentos de React](./junior_1/README.md) y construye tu camino hacia la excelencia en desarrollo web.
+¡Estás listo para convertirte en un desarrollador React senior! Comienza con el **[Módulo 1: Fundamentos de React](junior_1/README.md)** y construye tu camino hacia la excelencia en desarrollo web.
 
 ---
 

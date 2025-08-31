@@ -1,5 +1,12 @@
 # 🚀 Módulo 1: Fundamentos de React y JSX
 
+## 🧭 Navegación del Curso
+
+**← Anterior**: [Inicio del Curso](../README.md)  
+**Siguiente →**: [Junior Level 2: Componentes y Hooks](../junior_2/README.md)
+
+---
+
 ## 📚 Descripción del Módulo
 
 En este módulo aprenderás los fundamentos esenciales de React, desde qué es React y por qué es tan popular, hasta crear tu primer componente y entender el JSX. Establecerás una base sólida que te permitirá construir aplicaciones React complejas en los siguientes módulos.

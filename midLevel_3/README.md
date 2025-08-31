@@ -1,3 +1,12 @@
+# 🟡 Mid Level 3: Testing y Debugging
+
+## 🧭 Navegación del Curso
+
+**← Anterior**: [Mid Level 2: Hooks Avanzados](../midLevel_2/README.md)  
+**Siguiente →**: [Senior Level 1: Arquitectura](../senior_1/README.md)
+
+---
+
 # 🚀 Módulo 6: Testing y Debugging
 
 ## 📚 Descripción del Módulo

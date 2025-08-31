@@ -1,3 +1,12 @@
+# 🔴 Senior Level 3: Performance y Optimización
+
+## 🧭 Navegación del Curso
+
+**← Anterior**: [Senior Level 2: Testing Avanzado](../senior_2/README.md)  
+**Siguiente →**: [Senior Level 4: DevOps](../senior_4/README.md)
+
+---
+
 # 🚀 Módulo 9: Performance y Optimización
 
 ## 📚 Descripción del Módulo
